@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+         cat       1.00      0.96      0.98       200
+         dog       0.98      0.99      0.99       200
+        lion       1.00      0.99      1.00       200
+      monkey       0.98      0.97      0.98       200
+        wolf       0.96      0.99      0.98       200
+
+    accuracy                           0.98      1000
+   macro avg       0.99      0.98      0.99      1000
+weighted avg       0.99      0.98      0.99      1000
